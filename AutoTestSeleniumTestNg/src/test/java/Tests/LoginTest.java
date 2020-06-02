@@ -15,7 +15,7 @@ public class LoginTest {
 		System.setProperty("webdriver.chrome.driver","./Drivers/chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.get("https://google.com");
-		System.out.println("Launched application successfully.");
+		System.out.println("Launched application successfully...");
 		
 	}
 
